@@ -1,0 +1,39 @@
+1. What is Software ?
+
+=> Software is a set of instructions, data or programs used to operate computers and execute specific tasks. 
+   It is the opposite of hardware, which describes the physical aspects of a computer. 
+
+2. Types of Application ?
+
+=> 1.Word Processing Software
+   2.Graphics Software
+   3.Spreadsheet Software
+   4.Presentation Software
+   5.Web Browsers
+
+3. What is Mobile Application ?
+
+=> A mobile app is an application software specifically developed for use on small,
+   mobile computing devices such as tablets and smartphones.
+   Mobile apps are designed to provide users with services that are similar to those that can be accessed on 
+   desktop computers.
+4. Difference between mobile application and web application.
+
+=> Mobile Apps :-
+  1. Mobile apps are developed for a specific platform, such as iOS for the Apple iPhone or Android.
+  2.They are downloaded and installed via an app store such as Google Play Store and Apple Store and have access to system resources,
+    such as GPS and the camera of the device.
+  3.Mobile apps may work offline.
+  4.Native Apps are comparatively faster. 
+  5.It is difficult to have a native mobile app approved by the App Store.
+  6.Native apps have more safety and security.
+  7.Maintaining and consistently update of native apps cause more cost.
+ 
+=> Web Apps :-
+  1.On the other hand, Web Apps are accessed via the internet browser and will function according to the device you’re viewing them on.
+  2.Web apps are not native to a particular system and there is no need to be downloaded or installed.
+  3.In order to run web apps need an active internet connection.
+  4.Web Apps are comparatively slower.
+  5.In Web Apps App store approval is not required, so web apps can be launched easily.
+  6.Web apps have comparatively low security.
+  7.These apps can be set to update themselves or automatically.
